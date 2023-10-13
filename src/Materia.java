@@ -44,6 +44,8 @@ public class Materia {
         System.out.println("Código Materia: " + codigo);
         System.out.println("Nombre Materia: " + nombre);
         profesor.imprimirDatos();
+
+
     }
 }
 
